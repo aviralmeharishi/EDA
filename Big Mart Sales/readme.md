@@ -69,8 +69,9 @@ The dataset consists of the following columns:
 
 ## 📬 Contact  
 👤 **Avi**  
-📧 [Your Email]  
-🔗 [Your LinkedIn/GitHub]  
+📧 [aviralmeharishi@gmail.com]
+
+
 
 ---
 
