@@ -1,6 +1,6 @@
 # 🧠 Resume EDA & Scoring
 
-This project explores and analyzes resume data to uncover insights and prepare the foundation for intelligent **resume scoring** and **job-fit matching**.
+This project explores and analyzes resume data to uncover insights and prepare the foundation for intelligent **resume scoring** and **job-fit matching**. Its a **Classic Natural Language Processing (NLP) Based Problem**.
 
 ---
 
