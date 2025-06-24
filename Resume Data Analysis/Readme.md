@@ -53,8 +53,8 @@ This project explores and analyzes resume data to uncover insights and prepare t
 
 ```bash
 .
-├── Untitled-1.ipynb        # Main notebook with EDA
-├── resume_data.csv         # Dataset (if public)
-├── visuals/                # Saved plots (optional)
+├── Resume Data Analysis.ipynb        # Main notebook with EDA
+├── resume_data.csv         # Dataset 
+├── Data Description                # Have Some Flavour of Data
 └── README.md               # Project overview and documentation
 
